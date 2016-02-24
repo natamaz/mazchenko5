@@ -1,0 +1,34 @@
+
+table
+{
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 500px;
+    height: 541px;
+}
+.wrapper table td
+{
+    width: 60px;
+    height: 40px;
+    border: 10px solid black;
+}
+
+table td.yellow
+{
+    background: #fde95b;
+    width: 30px;
+}
+table td.red
+{
+    background: #ff583a;
+}
+table td.black
+{
+    background: #151315;
+}
+
+table td.blue
+{
+    background: #084380;
+}
+
